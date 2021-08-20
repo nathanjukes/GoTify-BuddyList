@@ -5,8 +5,9 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
-	"spotify/entity"
 	"time"
+
+	"github.com/nathanjukes/GoTify-BuddyList/entity"
 )
 
 //

@@ -1,8 +1,8 @@
 package buddyList
 
 import (
-	"spotify/entity"
-	"spotify/services"
+	"github.com/nathanjukes/GoTify-BuddyList/entity"
+	"github.com/nathanjukes/GoTify-BuddyList/services"
 )
 
 type spotifyBuddyList struct {
