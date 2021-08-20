@@ -43,7 +43,7 @@ func main() {
 }
 ```
 
-- BuddyList object structure
+- BuddyList object structure (inline version)
 ```go
 type BuddyList struct {
 	Friends []struct {
