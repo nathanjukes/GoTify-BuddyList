@@ -11,7 +11,7 @@
   <a href="https://pkg.go.dev/github.com/nathanjukes/GoTify-BuddyList">
     <img src="https://img.shields.io/badge/version-v1.0-blue">
   </a>
-  <a href="https://github.com/nathanjukes/Sorting-Algorithm-Visualisation/blob/master/LICENSE.md">
+  <a href="https://github.com/nathanjukes/GoTify-BuddyList/blob/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
   </a>
 	<a href="https://pkg.go.dev/github.com/nathanjukes/GoTify-BuddyList"><img src="https://pkg.go.dev/badge/github.com/nathanjukes/GoTify-BuddyList.svg" alt="Go Reference"></a>
